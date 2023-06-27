@@ -20,7 +20,7 @@
     display: flex;
 }
 .log-in{
-    width: 360px;
+    max-width: 360px;
     height: 517px;
     margin-top: 221px;
     margin-left: 140px;
