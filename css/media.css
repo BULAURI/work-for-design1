@@ -1,0 +1,24 @@
+@media (max-width: 672px) {
+    .threed-img{
+        display: none;
+    }
+    .container2{
+        margin: 0 auto;
+    }
+    .container1{
+        width: 102px;
+        height: 63px;
+        margin-bottom: 56px;
+        margin-left: 200px;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+    }
+    .logo{
+        margin: 0 auto;
+    }
+    .logo-text{
+        margin-top: 12px;
+    }
+  }
+  
